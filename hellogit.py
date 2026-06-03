@@ -1,1 +1,1 @@
-print("new hello git")
+print("Este es mi avance de código de hoy")
